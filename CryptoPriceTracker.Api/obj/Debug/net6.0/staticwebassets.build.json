@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xD5IbhPdKpim5vDRqk9d8y3Bg3IUTeshw/7LDM+OAWI=",
+  "Source": "CryptoPriceTracker.Api",
+  "BasePath": "_content/CryptoPriceTracker.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
