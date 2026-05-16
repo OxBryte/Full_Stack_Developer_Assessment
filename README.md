@@ -1,4 +1,4 @@
-# Crypto Price Tracker – Full Stack Developer Challenge
+# Crypto Price Tracker – Full Stack Developer Challenge - Dwayne Love
 
 ## 📋 Objective
 
